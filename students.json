@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "J Mangueira",
+      "idade": "18",
+      "email": "emaildoJ69@gmail.com",
+      "telefone": "11002301930129"
+    },
+    {
+      "id": 2,
+      "name": "Jose Games",
+      "idade": "54",
+      "email": "josegames@gmail.com",
+      "telefone": "110023312321312321"
+    }
+  ]
+}
